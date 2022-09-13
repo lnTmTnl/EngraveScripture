@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 344ebe8eddf6144438bd85edb2cf0784
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - board: {instanceID: 0}
+  - InfoBox: {fileID: 8234178407652660965, guid: 04b28651da099374183657f185068fc3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
